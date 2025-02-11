@@ -2,6 +2,10 @@
 
 This project is a demonstration of how to create a reusable authentication form with built-in validations. It allows customization for sign-in, sign-up, or third-party authentication.
 
+## Usage
+
+You access and customize the react form component from 'src/components/FormComponent.js'
+
 ## Available Scripts
 
 In the project directory, you can run:
