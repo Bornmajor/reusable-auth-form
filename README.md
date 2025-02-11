@@ -1,4 +1,4 @@
-# Getting Started with Reusable Authenication form
+# Getting Started with Reusable Authentication form
 
 This project is a demonstration of how to create a reusable authentication form with built-in validations. It allows customization for sign-in, sign-up, or third-party authentication.
 
